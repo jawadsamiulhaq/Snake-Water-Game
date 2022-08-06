@@ -1,4 +1,4 @@
 # Snake-Water-Game
 
 
-https://github.com/jawadsamiulhaq/Snake-Water-Game/blob/main/Capture.PNG
+<img align="right" alt="Coding" width="600" src="https://github.com/jawadsamiulhaq/Snake-Water-Game/blob/main/Capture.PNG">
